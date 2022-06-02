@@ -1,0 +1,60 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.p-col{
+    margin:75px auto 0px auto;
+    font-size: 2rem;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.college-link{
+    display: inline-block;
+    margin-top: 0px;
+}
+.college-link:hover{
+    color: aquamarine;
+}
+.p2{
+    margin-top: 0px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.i2{
+    float: left;
+    height: 250px;
+    width: 250px;
+    transform: translate(20px,120px);
+}
+
+.imag{
+    margin: auto;
+}
+a {
+    text-decoration: none;
+    font-family: 'Ubuntu', sans-serif;
+    color: black;
+}
+h2{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+}
+.btn{
+    font-family: 'Ubuntu', sans-serif;
+}
+.pg1{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.skills-part{
+    padding: 3% 7%;
+}
+
+/* Home section */
+#home{
+    padding: 0% 3% auto 3%;
+}  
+
+.pgbar{
+    background-color: #F47C7C;
+}
